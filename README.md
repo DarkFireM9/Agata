@@ -9,7 +9,7 @@
 - [Joselyn Reyna Contreras](https://github.com/Jossrec)  
 - [Joirid Juarez Salinas](https://github.com/Joirid)  
 - [Luis Ernesto Guzman del Angel](https://github.com/LEDGAngel)
-- [César Antonio Martínez Vilchís]([https://github.com/V1lch1s](https://github.com/A01236306))  
+- [César Antonio Martínez Vilchís]((https://github.com/A01236306))  
 
 ---
 
