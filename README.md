@@ -1,16 +1,14 @@
-# Ágata ♦️ 
+# Ágata ♦️  ![ágataLogo (2)](https://github.com/user-attachments/assets/f58ddc87-d164-4764-a48a-28fedc383008)
+`TC3004B`  
+**Socio Formador:** Softtek  
 
-![ágataLogo (2)](https://github.com/user-attachments/assets/f58ddc87-d164-4764-a48a-28fedc383008)
+
+---
 
 ## 🎯 Product BackLog
 
 https://trello.com/invite/b/67af8cc7be2a083c5349fd37/ATTI9f07cc775b84fa7d17c3f9b48489b92cAFBBD63A/equipo-6
----
 
-`TC3004B`  
-**Socio Formador:** Softtek  
-
----
 
 ## 👥 Integrantes  
 - [Sergio Aarón Hernandez Orta](https://github.com/DarkFireM9)  
